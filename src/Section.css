@@ -1,0 +1,16 @@
+button {
+    border-radius: 15px;
+    width: 7%;
+    padding: 1% 3%;
+    text-align: center;
+    color: white;
+    border: none;
+    font-weight: 800;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.add {
+    background-color: green;
+}
+.remove {
+    background-color: #CC0000;
+}
